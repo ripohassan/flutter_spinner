@@ -1,4 +1,4 @@
-# flutter_snakbartoastspinner
+# flutter_spinner
 
 A new Flutter application.
 
